@@ -7,8 +7,11 @@ HAPPY
 | FROM DESPICABLE ME 2 |
 
 <!-- BACK -->
+<img src="/images/cover.jpg"
+     alt="Pharrell Williams dancing"/>
 
-| &nbsp;&nbsp; FROM DESPICABLE ME 2 &nbsp;&nbsp; |
+<!-- FRONT -->
+<!-- | &nbsp;&nbsp; FROM DESPICABLE ME 2 &nbsp;&nbsp; | --> 
 
 HAPPY
 
